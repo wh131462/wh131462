@@ -77,7 +77,7 @@ Keep learning, let the heart stay passionate eternally...
 
 ## Contact
 
-- E-mail：[hao131462@qq.com](`mailto://hao131462@qq.com?subject=Hello&body=NOTE:This Email is from Github profile.`)
+- E-mail：[hao131462@qq.com](mailto://hao131462@qq.com?subject=Hello&body=NOTE:This%20Email%20is%20from%20Github%20profile.)
 - GitHub：[wh131462](https://github.com/wh131462)
 
 ## License
