@@ -10,34 +10,48 @@ I am a frontend enthusiast, passionate about creating, and a frontend developer 
 
 > ***Keep learning, let the heart stay passionate eternally...***
 
-## 📚 Languages
+## 🛸 Technology Stack
 
 ### 💻 Front-end
 
-<code><img height="20" alt="html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" alt="css" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" alt="angular" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
-<code><img height="20" alt="vue" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" alt="html" src="https://raw.githubusercontent.com/github/explore/bc32570fedd2cf9568fafa27cfe51e34e5826998/topics/html/html.png"></code>
+<code><img height="20" alt="css" src="https://raw.githubusercontent.com/github/explore/bc32570fedd2cf9568fafa27cfe51e34e5826998/topics/css/css.png"></code>
+<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/bc32570fedd2cf9568fafa27cfe51e34e5826998/topics/javascript/javascript.png"></code>
+<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/bc32570fedd2cf9568fafa27cfe51e34e5826998/topics/typescript/typescript.png"></code>
+<code><img height="20" alt="angular" src="https://raw.githubusercontent.com/github/explore/bc32570fedd2cf9568fafa27cfe51e34e5826998/topics/angular/angular.png"></code>
+<code><img height="20" alt="vue" src="https://raw.githubusercontent.com/github/explore/bc32570fedd2cf9568fafa27cfe51e34e5826998/topics/vue/vue.png"></code>
 
 ### 🖥 Back-end
 
-<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" alt="java" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="20" alt="php" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
+<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/bc32570fedd2cf9568fafa27cfe51e34e5826998/topics/nodejs/nodejs.png"></code>
+<code><img height="20" alt="java" src="https://raw.githubusercontent.com/github/explore/bc32570fedd2cf9568fafa27cfe51e34e5826998/topics/java/java.png"></code>
+<code><img height="20" alt="php" src="https://raw.githubusercontent.com/github/explore/bc32570fedd2cf9568fafa27cfe51e34e5826998/topics/php/php.png"></code>
+<code><img height="20" alt="c#" src="https://raw.githubusercontent.com/github/explore/bc32570fedd2cf9568fafa27cfe51e34e5826998/topics/csharp/csharp.png"></code>
 
-### 📱 Mobile
 
-<code><img height="20" alt="flutter" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+### 📱 Mobile-end
 
-### Dev
+<code><img height="20" alt="flutter" src="https://raw.githubusercontent.com/github/explore/bc32570fedd2cf9568fafa27cfe51e34e5826998/topics/flutter/flutter.png"></code>
 
-<code><img height="20" alt="flutter" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+### 🔨 Development
 
-### 🎉 Support
+<code><img height="20" alt="git" src="https://raw.githubusercontent.com/github/explore/bc32570fedd2cf9568fafa27cfe51e34e5826998/topics/git/git.png"></code>
+<code><img height="20" alt="idea" src="https://raw.githubusercontent.com/github/explore/bc32570fedd2cf9568fafa27cfe51e34e5826998/topics/intellij-idea/intellij-idea.png"></code>
+<code><img height="20" alt="android-studio" src="https://raw.githubusercontent.com/github/explore/bc32570fedd2cf9568fafa27cfe51e34e5826998/topics/android-studio/android-studio.png"></code>
+<code><img height="20" alt="vs" src="https://raw.githubusercontent.com/github/explore/bc32570fedd2cf9568fafa27cfe51e34e5826998/topics/visual-studio/visual-studio.png"></code>
+<code><img height="20" alt="vs-code" src="https://raw.githubusercontent.com/github/explore/bc32570fedd2cf9568fafa27cfe51e34e5826998/topics/visual-studio-code/visual-studio-code.png"></code>
+<code><img height="20" alt="flutter" src="https://raw.githubusercontent.com/github/explore/bc32570fedd2cf9568fafa27cfe51e34e5826998/topics/unity/unity.png"></code>
 
-<code><img height="20" alt="markdown" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png"></code>
+### ⚙️ System
+
+<code><img height="20" alt="macos" src="https://raw.githubusercontent.com/github/explore/bc32570fedd2cf9568fafa27cfe51e34e5826998/topics/apple/apple.png"></code>
+<code><img height="20" alt="windows" src="https://raw.githubusercontent.com/github/explore/bc32570fedd2cf9568fafa27cfe51e34e5826998/topics/windows/windows.png"></code>
+<code><img height="20" alt="ubuntu" src="https://raw.githubusercontent.com/github/explore/bc32570fedd2cf9568fafa27cfe51e34e5826998/topics/ubuntu/ubuntu.png"></code>
+
+
+### ✍️ Technical Writing
+
+<code><img height="20" alt="markdown" src="https://raw.githubusercontent.com/github/explore/bc32570fedd2cf9568fafa27cfe51e34e5826998/topics/markdown/markdown.png"></code>
 
 ## 📦 Repositories
 
@@ -66,8 +80,9 @@ I am a frontend enthusiast, passionate about creating, and a frontend developer 
 
 ## 📪 Contact
 
-- E-mail：[hao131462@qq.com](mailto://hao131462@qq.com?subject=Hello&body=NOTE:This%20Email%20is%20from%20Github%20profile.)
-- GitHub：[wh131462](https://github.com/wh131462)
+- E-mail:[hao131462@qq.com](mailto://hao131462@qq.com?subject=Hello&body=NOTE:This%20Email%20is%20from%20Github%20profile.)
+- GitHub:[wh131462](https://github.com/wh131462)
+- WeChat:[ISEhQW5ndWxhcj09PWZhbHNlPydhbmQnOidvcic7](BASE64)
 
 ## 📃 License
 
