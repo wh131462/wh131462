@@ -4,26 +4,11 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/wh131462/wh131462/output/github-snake.svg">
 </picture>
 
-# EternalHeart
+## EternalHeart
 
-<p style="
-font-size:24px;
-background: linear-gradient(90deg, rgba(255, 20, 15, 0.65) -2.17%, #FF8A01 13.79%, #FFF500 32.42%, #14FF00 52.64%, rgba(54, 207, 255, 0.77) 69.67%, rgba(67, 131, 255, 0.72) 83.5%, rgba(251, 49, 255, 0.49) 100%);
-background-clip: text;
--webkit-background-clip: text;
--webkit-text-fill-color: transparent;
-">
 I am a frontend enthusiast, passionate about creating, and a frontend developer committed to transitioning into a full-stack role. I aspire to become a recognized expert in the field of technology, and I look forward to earning the acknowledgment of my peers.
-</p>
 
-<p style="
-font-size:36px;
-background: linear-gradient(90deg, rgba(255, 20, 15, 0.65) -2.17%, #FF8A01 13.79%, #FFF500 32.42%, #14FF00 52.64%, rgba(54, 207, 255, 0.77) 69.67%, rgba(67, 131, 255, 0.72) 83.5%, rgba(251, 49, 255, 0.49) 100%);
-background-clip: text;
--webkit-background-clip: text;
--webkit-text-fill-color: transparent;">
-Keep learning, let the heart stay passionate eternally...
-</p>
+> ***Keep learning, let the heart stay passionate eternally...***
 
 ## Languages
 
@@ -54,13 +39,13 @@ Keep learning, let the heart stay passionate eternally...
 
 <div style="display: flex;flex-wrap: wrap;gap: 16px;">
     <a style="display: block" href="https://github.com/wh131462/leetcode-practice">
-        <img alt="Leetcode-practice" src="https://github-readme-stats.vercel.app/api/pin/?username=wh131462&amp;repo=leetcode-practice&amp;theme=transparent&amp;hide_border=true"/>
+        <img alt="Leetcode-practice" src="https://github-readme-stats.vercel.app/api/pin/?username=wh131462&amp;repo=leetcode-practice&amp;theme=transparent"/>
     </a>
     <a style="display: block" href="https://github.com/wh131462/Wallpaper">
-        <img alt="Wallpaper" src="https://github-readme-stats.vercel.app/api/pin/?username=wh131462&amp;repo=Wallpaper&amp;theme=transparent&amp;hide_border=true"/>
+        <img alt="Wallpaper" src="https://github-readme-stats.vercel.app/api/pin/?username=wh131462&amp;repo=Wallpaper&amp;theme=transparent"/>
     </a>
     <a style="display: block" href="https://github.com/wh131462/flutter_pure_music">
-        <img alt="PureMusic" src="https://github-readme-stats.vercel.app/api/pin/?username=wh131462&amp;repo=flutter_pure_music&amp;theme=transparent&amp;hide_border=true"/>
+        <img alt="PureMusic" src="https://github-readme-stats.vercel.app/api/pin/?username=wh131462&amp;repo=flutter_pure_music&amp;theme=transparent"/>
     </a>
 </div>
 
@@ -84,7 +69,7 @@ Keep learning, let the heart stay passionate eternally...
 
 This profile is licensed under the [CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/deed) license.
 
-## Badges
+## Others
 
 [![Badge](https://img.shields.io/badge/link-996.icu-%23FF4D5B.svg?style=flat-square)](https://996.icu/#/en_US)
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg?style=flat-square)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
