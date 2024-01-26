@@ -55,7 +55,7 @@ I am a frontend enthusiast, passionate about creating, and a frontend developer 
 
 ## 📦 Repositories
 
-<div style="display: flex;flex-wrap: wrap;gap: 16px;">
+<div style="width:100%;display: flex;flex-wrap: wrap;gap: 16px">
     <a style="display: block" href="https://github.com/wh131462/leetcode-practice">
         <img alt="Leetcode-practice" src="https://github-readme-stats.vercel.app/api/pin/?username=wh131462&amp;repo=leetcode-practice&amp;theme=transparent"/>
     </a>
