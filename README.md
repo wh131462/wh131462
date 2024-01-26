@@ -4,15 +4,15 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/wh131462/wh131462/output/github-snake.svg">
 </picture>
 
-## EternalHeart
+## ❤️ EternalHeart
 
 I am a frontend enthusiast, passionate about creating, and a frontend developer committed to transitioning into a full-stack role. I aspire to become a recognized expert in the field of technology, and I look forward to earning the acknowledgment of my peers.
 
 > ***Keep learning, let the heart stay passionate eternally...***
 
-## Languages
+## 📚 Languages
 
-### Front-end
+### 💻 Front-end
 
 <code><img height="20" alt="html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" alt="css" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
@@ -21,21 +21,25 @@ I am a frontend enthusiast, passionate about creating, and a frontend developer 
 <code><img height="20" alt="angular" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
 <code><img height="20" alt="vue" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 
-### Back-end
+### 🖥 Back-end
 
 <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" alt="java" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" alt="php" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
 
-### Mobile
+### 📱 Mobile
 
 <code><img height="20" alt="flutter" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 
-## Support
+### Dev
+
+<code><img height="20" alt="flutter" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+
+### 🎉 Support
 
 <code><img height="20" alt="markdown" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png"></code>
 
-## Repositories
+## 📦 Repositories
 
 <div style="display: flex;flex-wrap: wrap;gap: 16px;">
     <a style="display: block" href="https://github.com/wh131462/leetcode-practice">
@@ -49,27 +53,27 @@ I am a frontend enthusiast, passionate about creating, and a frontend developer 
     </a>
 </div>
 
-## Development Status
+## 🧸 Development Status
 
 [![EternalHeart's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wh131462)](https://github.com/anuraghazra/github-readme-stats)
 
 | [![EternalHeart's GitHub stats](https://github-readme-stats.vercel.app/api?username=wh131462&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wh131462&layout=donut&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
-## Home Page
+## 🚪 Home Page
 
 [<img height="100%" src="./assets/logo.svg" width="100%"/>](https://131462.wang)
 
-## Contact
+## 📪 Contact
 
 - E-mail：[hao131462@qq.com](mailto://hao131462@qq.com?subject=Hello&body=NOTE:This%20Email%20is%20from%20Github%20profile.)
 - GitHub：[wh131462](https://github.com/wh131462)
 
-## License
+## 📃 License
 
 This profile is licensed under the [CC0-1.0](https://creativecommons.org/publicdomain/zero/1.0/deed) license.
 
-## Others
+## 💮 Others
 
 [![Badge](https://img.shields.io/badge/link-996.icu-%23FF4D5B.svg?style=flat-square)](https://996.icu/#/en_US)
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg?style=flat-square)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
