@@ -57,19 +57,22 @@ I am a frontend enthusiast, passionate about creating, and a frontend developer 
 
 <div style="width:100%;display: flex;flex-wrap: wrap;gap: 16px">
     <a style="display: block" href="https://github.com/wh131462/leetcode-practice">
-        <img alt="Leetcode-practice" src="https://github-readme-stats.vercel.app/api/pin/?username=wh131462&amp;repo=leetcode-practice&amp;theme=transparent"/>
+        <img alt="Leetcode-practice" src="https://github-readme-stats.vercel.app/api/pin/?username=wh131462&amp;repo=leetcode-practice&amp;theme=transparent&amp;hide_border=true"/>
     </a>
     <a style="display: block" href="https://github.com/wh131462/Wallpaper">
-        <img alt="Wallpaper" src="https://github-readme-stats.vercel.app/api/pin/?username=wh131462&amp;repo=Wallpaper&amp;theme=transparent"/>
+        <img alt="Wallpaper" src="https://github-readme-stats.vercel.app/api/pin/?username=wh131462&amp;repo=Wallpaper&amp;theme=transparent&amp;hide_border=true"/>
     </a>
     <a style="display: block" href="https://github.com/wh131462/flutter_pure_music">
-        <img alt="PureMusic" src="https://github-readme-stats.vercel.app/api/pin/?username=wh131462&amp;repo=flutter_pure_music&amp;theme=transparent"/>
+        <img alt="PureMusic" src="https://github-readme-stats.vercel.app/api/pin/?username=wh131462&amp;repo=flutter_pure_music&amp;theme=transparent&amp;hide_border=true"/>
     </a>
 </div>
 
 ## 🧸 Development Status
 
 [![EternalHeart's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wh131462)](https://github.com/anuraghazra/github-readme-stats)
+
+<figure><img src="https://wakatime.com/share/@wh131462/1cbb8239-2a4b-47e4-b6b6-8a313e4c4a24.svg" alt="wakatime"/></figure>
+
 
 | [![EternalHeart's GitHub stats](https://github-readme-stats.vercel.app/api?username=wh131462&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wh131462&layout=donut&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
