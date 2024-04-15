@@ -81,14 +81,17 @@ I am a frontend enthusiast, passionate about creating, and a frontend developer 
 ## 🍩 Repositories
 
 <div style="width:100%;display: flex;flex-wrap: wrap;gap: 16px">
-    <a style="display: block" href="https://github.com/wh131462/leetcode-practice">
-        <img alt="Leetcode-practice" src="https://github-readme-stats.vercel.app/api/pin/?username=wh131462&amp;repo=leetcode-practice&amp;theme=transparent&amp;hide_border=true"/>
+    <a style="display: block" href="https://github.com/EternalHeart/leetcode-practice">
+        <img alt="Leetcode-practice" src="https://github-readme-stats.vercel.app/api/pin/?username=EternamHeart&amp;repo=leetcode-practice&amp;theme=transparent&amp;hide_border=true"/>
     </a>
-    <a style="display: block" href="https://github.com/wh131462/Wallpaper">
-        <img alt="Wallpaper" src="https://github-readme-stats.vercel.app/api/pin/?username=wh131462&amp;repo=Wallpaper&amp;theme=transparent&amp;hide_border=true"/>
+    <a style="display: block" href="https://github.com/wh131462/leetcode-answers">
+        <img alt="Leetcode-practice" src="https://github-readme-stats.vercel.app/api/pin/?username=wh131462&amp;repo=leetcode-answers&amp;theme=transparent&amp;hide_border=true"/>
     </a>
-    <a style="display: block" href="https://github.com/wh131462/flutter_pure_music">
-        <img alt="PureMusic" src="https://github-readme-stats.vercel.app/api/pin/?username=wh131462&amp;repo=flutter_pure_music&amp;theme=transparent&amp;hide_border=true"/>
+    <a style="display: block" href="https://github.com/wh131462/wallpaper-angular">
+        <img alt="Wallpaper" src="https://github-readme-stats.vercel.app/api/pin/?username=wh131462&amp;repo=wallpaper-angular&amp;theme=transparent&amp;hide_border=true"/>
+    </a>
+    <a style="display: block" href="https://github.com/wh131462/love-you-3000">
+        <img alt="Wallpaper" src="https://github-readme-stats.vercel.app/api/pin/?username=wh131462&amp;repo=love-you-3000&amp;theme=transparent&amp;hide_border=true"/>
     </a>
 </div>
 
