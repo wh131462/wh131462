@@ -124,7 +124,7 @@ I am a frontend enthusiast, passionate about creating, and a frontend developer 
 
 - E-mail:[hao131462@qq.com](mailto://hao131462@qq.com?subject=Hello&body=NOTE:This%20Email%20is%20from%20Github%20profile.)
 - GitHub:[wh131462](https://github.com/wh131462)
-- WeChat:[ISEhQW5ndWxhcj09PWZhbHNlPydhbmQnOidvcic7](BASE64)
+- WeChat:[cHJveHlfd2h5](BASE64)
 
 [//]: # (license)
 ## 📃 License
