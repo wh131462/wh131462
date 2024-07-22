@@ -84,6 +84,15 @@ I am a frontend enthusiast, passionate about creating, and a frontend developer 
     <a style="display: block" href="https://github.com/EternalHeartTeam/leetcode-practice">
         <img alt="Leetcode-practice" src="https://github-readme-stats.vercel.app/api/pin/?username=EternalHeartTeam&amp;repo=leetcode-practice&amp;theme=transparent&amp;hide_border=true"/>
     </a>
+    <a style="display: block" href="https://github.com/SmallTeddy/vue-files-preview">
+        <img alt="Wallpaper" src="https://github-readme-stats.vercel.app/api/pin/?username=SmallTeddy&amp;repo=vue-files-preview&amp;theme=transparent&amp;hide_border=true"/>
+    </a>
+    <a style="display: block" href="https://github.com/wh131462/liuyao_flutter">
+        <img alt="Wallpaper" src="https://github-readme-stats.vercel.app/api/pin/?username=wh131462&amp;repo=liuyao_flutter&amp;theme=transparent&amp;hide_border=true"/>
+    </a>
+    <a style="display: block" href="https://github.com/wh131462/liuyao_flutter">
+        <img alt="Wallpaper" src="https://github-readme-stats.vercel.app/api/pin/?username=wh131462&amp;repo=liuyao_flutter&amp;theme=transparent&amp;hide_border=true"/>
+    </a>
     <a style="display: block" href="https://github.com/wh131462/leetcode-answers">
         <img alt="Leetcode-practice" src="https://github-readme-stats.vercel.app/api/pin/?username=wh131462&amp;repo=leetcode-answers&amp;theme=transparent&amp;hide_border=true"/>
     </a>
