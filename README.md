@@ -34,6 +34,7 @@ I am a frontend enthusiast, passionate about creating, and a frontend developer 
 
 ### 🖥 Back-end
 
+<code><img height="20" alt="rust" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/rust/rust.png"></code>
 <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/bc32570fedd2cf9568fafa27cfe51e34e5826998/topics/nodejs/nodejs.png"></code>
 <code><img height="20" alt="java" src="https://raw.githubusercontent.com/github/explore/bc32570fedd2cf9568fafa27cfe51e34e5826998/topics/java/java.png"></code>
 <code><img height="20" alt="php" src="https://raw.githubusercontent.com/github/explore/bc32570fedd2cf9568fafa27cfe51e34e5826998/topics/php/php.png"></code>
@@ -55,6 +56,7 @@ I am a frontend enthusiast, passionate about creating, and a frontend developer 
 
 <code><img height="20" alt="npm" src="https://raw.githubusercontent.com/github/explore/bc32570fedd2cf9568fafa27cfe51e34e5826998/topics/npm/npm.png"></code>
 <code><img height="20" alt="yarn" src="https://raw.githubusercontent.com/github/explore/bc32570fedd2cf9568fafa27cfe51e34e5826998/topics/yarn/yarn.png"></code>
+<code><img height="20" alt="bun" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/bun/bun.png"></code>
 
 ### 🔨 Development
 
