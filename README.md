@@ -149,4 +149,4 @@ This profile is licensed under the [CC0-1.0](https://creativecommons.org/publicd
 [![Badge](https://img.shields.io/badge/link-996.icu-%23FF4D5B.svg?style=flat-square)](https://996.icu/#/en_US)
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg?style=flat-square)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
 [![wakatime](https://wakatime.com/badge/user/580f83a2-963e-461d-aee8-cd0525c415a9.svg)](https://wakatime.com/@580f83a2-963e-461d-aee8-cd0525c415a9)
-[![Visitors](https://vbr.nathanchung.dev/badge?page_id=https://github.com/wh131462&lcolor=131462&color=333333&logo=Github&style=flat&text=Lovers)](https://github.com/wh131462)
+[![Visitors](https://vbr.nathanchung.dev/badge?page_id=https://github.com/wh131462&lcolor=131462&color=333333&logo=Github&style=flat&text=❤️)](https://github.com/wh131462)
