@@ -25,17 +25,19 @@ I am a frontend enthusiast, passionate about creating, and a frontend developer 
 
 ### 💻 Front-end
 
+<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/bc32570fedd2cf9568fafa27cfe51e34e5826998/topics/react/react.png"></code>
+<code><img height="20" alt="angular" src="https://raw.githubusercontent.com/github/explore/bc32570fedd2cf9568fafa27cfe51e34e5826998/topics/angular/angular.png"></code>
+<code><img height="20" alt="vue" src="https://raw.githubusercontent.com/github/explore/bc32570fedd2cf9568fafa27cfe51e34e5826998/topics/vue/vue.png"></code>
 <code><img height="20" alt="html" src="https://raw.githubusercontent.com/github/explore/bc32570fedd2cf9568fafa27cfe51e34e5826998/topics/html/html.png"></code>
 <code><img height="20" alt="css" src="https://raw.githubusercontent.com/github/explore/bc32570fedd2cf9568fafa27cfe51e34e5826998/topics/css/css.png"></code>
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/bc32570fedd2cf9568fafa27cfe51e34e5826998/topics/javascript/javascript.png"></code>
 <code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/bc32570fedd2cf9568fafa27cfe51e34e5826998/topics/typescript/typescript.png"></code>
-<code><img height="20" alt="angular" src="https://raw.githubusercontent.com/github/explore/bc32570fedd2cf9568fafa27cfe51e34e5826998/topics/angular/angular.png"></code>
-<code><img height="20" alt="vue" src="https://raw.githubusercontent.com/github/explore/bc32570fedd2cf9568fafa27cfe51e34e5826998/topics/vue/vue.png"></code>
 
 ### 🖥 Back-end
 
-<code><img height="20" alt="rust" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/rust/rust.png"></code>
 <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/bc32570fedd2cf9568fafa27cfe51e34e5826998/topics/nodejs/nodejs.png"></code>
+<code><img height="20" alt="go" src="https://raw.githubusercontent.com/github/explore/bc32570fedd2cf9568fafa27cfe51e34e5826998/topics/go/go.png"></code>
+<code><img height="20" alt="rust" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/rust/rust.png"></code>
 <code><img height="20" alt="java" src="https://raw.githubusercontent.com/github/explore/bc32570fedd2cf9568fafa27cfe51e34e5826998/topics/java/java.png"></code>
 <code><img height="20" alt="php" src="https://raw.githubusercontent.com/github/explore/bc32570fedd2cf9568fafa27cfe51e34e5826998/topics/php/php.png"></code>
 <code><img height="20" alt="c#" src="https://raw.githubusercontent.com/github/explore/bc32570fedd2cf9568fafa27cfe51e34e5826998/topics/csharp/csharp.png"></code>
@@ -46,15 +48,18 @@ I am a frontend enthusiast, passionate about creating, and a frontend developer 
 
 <code><img height="20" alt="flutter" src="https://raw.githubusercontent.com/github/explore/bc32570fedd2cf9568fafa27cfe51e34e5826998/topics/flutter/flutter.png"></code>
 <code><img height="20" alt="swift" src="https://raw.githubusercontent.com/github/explore/bc32570fedd2cf9568fafa27cfe51e34e5826998/topics/swift/swift.png"></code>
+<code><img height="20" alt="uniapp" src="https://web-assets.dcloud.net.cn/unidoc/zh/icon.png"></code>
 
 ### 🔧 Builder
 
 <code><img height="20" alt="webpack" src="https://raw.githubusercontent.com/github/explore/bc32570fedd2cf9568fafa27cfe51e34e5826998/topics/webpack/webpack.png"></code>
 <code><img height="20" alt="vite" src="https://raw.githubusercontent.com/github/explore/bc32570fedd2cf9568fafa27cfe51e34e5826998/topics/vite/vite.png"></code>
+<code><img height="20" alt="esbuild" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/esbuild/esbuild.png"></code>
 
 ### 📦 Package Management
 
 <code><img height="20" alt="npm" src="https://raw.githubusercontent.com/github/explore/bc32570fedd2cf9568fafa27cfe51e34e5826998/topics/npm/npm.png"></code>
+<code><img height="20" alt="pnpm" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/pnpm/pnpm.png"></code>
 <code><img height="20" alt="yarn" src="https://raw.githubusercontent.com/github/explore/bc32570fedd2cf9568fafa27cfe51e34e5826998/topics/yarn/yarn.png"></code>
 <code><img height="20" alt="bun" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/bun/bun.png"></code>
 
@@ -84,25 +89,40 @@ I am a frontend enthusiast, passionate about creating, and a frontend developer 
 
 <div style="width:100%;display: flex;flex-wrap: wrap;gap: 16px">
     <a style="display: block" href="https://github.com/EternalHeartTeam/leetcode-practice">
-        <img alt="Leetcode-practice" src="https://github-readme-stats.vercel.app/api/pin/?username=EternalHeartTeam&amp;repo=leetcode-practice&amp;theme=transparent&amp;hide_border=true"/>
+        <img alt="leetcode-practice" src="https://github-readme-stats.vercel.app/api/pin/?username=EternalHeartTeam&amp;repo=leetcode-practice&amp;theme=transparent&amp;hide_border=true"/>
+    </a>
+    <a style="display: block" href="https://github.com/wh131462/liuyao">
+        <img alt="liuyao" src="https://github-readme-stats.vercel.app/api/pin/?username=wh131462&amp;repo=liuyao&amp;theme=transparent&amp;hide_border=true"/>
+    </a>
+    <a style="display: block" href="https://github.com/wh131462/ngx-file-preview">
+        <img alt="ngx-file-preview" src="https://github-readme-stats.vercel.app/api/pin/?username=wh131462&amp;repo=ngx-file-preview&amp;theme=transparent&amp;hide_border=true"/>
+    </a>
+    <a style="display: block" href="https://github.com/wh131462/react-file-preview">
+        <img alt="react-file-preview" src="https://github-readme-stats.vercel.app/api/pin/?username=wh131462&amp;repo=react-file-preview&amp;theme=transparent&amp;hide_border=true"/>
     </a>
     <a style="display: block" href="https://github.com/SmallTeddy/vue-files-preview">
-        <img alt="Wallpaper" src="https://github-readme-stats.vercel.app/api/pin/?username=SmallTeddy&amp;repo=vue-files-preview&amp;theme=transparent&amp;hide_border=true"/>
-    </a>
-   <a style="display: block" href="https://github.com/wh131462/ngx-file-preview">
-        <img alt="Wallpaper" src="https://github-readme-stats.vercel.app/api/pin/?username=wh131462&amp;repo=ngx-file-preview&amp;theme=transparent&amp;hide_border=true"/>
-    </a>
-    <a style="display: block" href="https://github.com/wh131462/liuyao_flutter">
-        <img alt="Wallpaper" src="https://github-readme-stats.vercel.app/api/pin/?username=wh131462&amp;repo=liuyao_flutter&amp;theme=transparent&amp;hide_border=true"/>
+        <img alt="vue-files-preview" src="https://github-readme-stats.vercel.app/api/pin/?username=SmallTeddy&amp;repo=vue-files-preview&amp;theme=transparent&amp;hide_border=true"/>
     </a>
     <a style="display: block" href="https://github.com/wh131462/leetcode-answers">
-        <img alt="Leetcode-practice" src="https://github-readme-stats.vercel.app/api/pin/?username=wh131462&amp;repo=leetcode-answers&amp;theme=transparent&amp;hide_border=true"/>
+        <img alt="leetcode-answers" src="https://github-readme-stats.vercel.app/api/pin/?username=wh131462&amp;repo=leetcode-answers&amp;theme=transparent&amp;hide_border=true"/>
+    </a>
+    <a style="display: block" href="https://github.com/wh131462/metronome">
+        <img alt="metronome" src="https://github-readme-stats.vercel.app/api/pin/?username=wh131462&amp;repo=metronome&amp;theme=transparent&amp;hide_border=true"/>
+    </a>
+    <a style="display: block" href="https://github.com/wh131462/ngx-floating">
+        <img alt="ngx-floating" src="https://github-readme-stats.vercel.app/api/pin/?username=wh131462&amp;repo=ngx-floating&amp;theme=transparent&amp;hide_border=true"/>
     </a>
     <a style="display: block" href="https://github.com/wh131462/wallpaper-angular">
-        <img alt="Wallpaper" src="https://github-readme-stats.vercel.app/api/pin/?username=wh131462&amp;repo=wallpaper-angular&amp;theme=transparent&amp;hide_border=true"/>
+        <img alt="wallpaper-angular" src="https://github-readme-stats.vercel.app/api/pin/?username=wh131462&amp;repo=wallpaper-angular&amp;theme=transparent&amp;hide_border=true"/>
+    </a>
+    <a style="display: block" href="https://github.com/wh131462/eternal-heart-go">
+        <img alt="eternal-heart-go" src="https://github-readme-stats.vercel.app/api/pin/?username=wh131462&amp;repo=eternal-heart-go&amp;theme=transparent&amp;hide_border=true"/>
+    </a>
+    <a style="display: block" href="https://github.com/wh131462/mcp-dependency-doctor">
+        <img alt="mcp-dependency-doctor" src="https://github-readme-stats.vercel.app/api/pin/?username=wh131462&amp;repo=mcp-dependency-doctor&amp;theme=transparent&amp;hide_border=true"/>
     </a>
     <a style="display: block" href="https://github.com/wh131462/love-you-3000">
-        <img alt="Wallpaper" src="https://github-readme-stats.vercel.app/api/pin/?username=wh131462&amp;repo=love-you-3000&amp;theme=transparent&amp;hide_border=true"/>
+        <img alt="love-you-3000" src="https://github-readme-stats.vercel.app/api/pin/?username=wh131462&amp;repo=love-you-3000&amp;theme=transparent&amp;hide_border=true"/>
     </a>
 </div>
 
@@ -110,13 +130,9 @@ I am a frontend enthusiast, passionate about creating, and a frontend developer 
 
 ## 🧸 Development Status
 
-[//]: # (All time)
-
-<figure><img src="https://wakatime.com/share/@wh131462/1cbb8239-2a4b-47e4-b6b6-8a313e4c4a24.svg" alt="wakatime"/></figure>
-
 [//]: # (git contribute graph)
 
-<a href="https://github.com/wh131462"><img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=wh131462&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/wh131462"><img alt="EternalHeart's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=wh131462&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 [//]: # (Git stat)
 
@@ -127,7 +143,17 @@ I am a frontend enthusiast, passionate about creating, and a frontend developer 
 
 ## 🚪 Home Page
 
-[<img height="100%" src="./assets/logo.svg" width="100%"/>](https://131462.wang)
+<div align="center">
+  <a href="https://131462.wang">
+    <img src="https://img.shields.io/badge/🏠_Visit_My_Home-131462.wang-131462?style=for-the-badge&labelColor=333333" alt="Home Page"/>
+  </a>
+  <br/><br/>
+  <a href="https://131462.wang">
+    <img src="./assets/logo.svg" width="60%" alt="EternalHeart Logo"/>
+  </a>
+  <br/><br/>
+  <sub>Click the logo or button above to explore more</sub>
+</div>
 
 [//]: # (contact)
 
@@ -148,5 +174,4 @@ This profile is licensed under the [CC0-1.0](https://creativecommons.org/publicd
 
 [![Badge](https://img.shields.io/badge/link-996.icu-%23FF4D5B.svg?style=flat-square)](https://996.icu/#/en_US)
 [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg?style=flat-square)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
-[![wakatime](https://wakatime.com/badge/user/580f83a2-963e-461d-aee8-cd0525c415a9.svg)](https://wakatime.com/@580f83a2-963e-461d-aee8-cd0525c415a9)
 [![Visitors](https://vbr.nathanchung.dev/badge?page_id=https://github.com/wh131462&lcolor=131462&color=333333&logo=Github&style=flat&text=❤️)](https://github.com/wh131462)
