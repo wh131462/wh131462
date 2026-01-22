@@ -54,12 +54,12 @@ I am a frontend enthusiast, passionate about creating, and a frontend developer 
 
 <code><img height="20" alt="webpack" src="https://raw.githubusercontent.com/github/explore/bc32570fedd2cf9568fafa27cfe51e34e5826998/topics/webpack/webpack.png"></code>
 <code><img height="20" alt="vite" src="https://raw.githubusercontent.com/github/explore/bc32570fedd2cf9568fafa27cfe51e34e5826998/topics/vite/vite.png"></code>
-<code><img height="20" alt="esbuild" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/esbuild/esbuild.png"></code>
+<code><img height="20" alt="esbuild" src="https://esbuild.github.io/favicon.svg"></code>
 
 ### 📦 Package Management
 
 <code><img height="20" alt="npm" src="https://raw.githubusercontent.com/github/explore/bc32570fedd2cf9568fafa27cfe51e34e5826998/topics/npm/npm.png"></code>
-<code><img height="20" alt="pnpm" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/pnpm/pnpm.png"></code>
+<code><img height="20" alt="pnpm" src="https://pnpm.io/img/pnpm-no-name-with-frame.svg"></code>
 <code><img height="20" alt="yarn" src="https://raw.githubusercontent.com/github/explore/bc32570fedd2cf9568fafa27cfe51e34e5826998/topics/yarn/yarn.png"></code>
 <code><img height="20" alt="bun" src="https://raw.githubusercontent.com/github/explore/refs/heads/main/topics/bun/bun.png"></code>
 
@@ -91,38 +91,35 @@ I am a frontend enthusiast, passionate about creating, and a frontend developer 
     <a style="display: block" href="https://github.com/EternalHeartTeam/leetcode-practice">
         <img alt="leetcode-practice" src="https://github-readme-stats.vercel.app/api/pin/?username=EternalHeartTeam&amp;repo=leetcode-practice&amp;theme=transparent&amp;hide_border=true"/>
     </a>
-    <a style="display: block" href="https://github.com/wh131462/liuyao">
-        <img alt="liuyao" src="https://github-readme-stats.vercel.app/api/pin/?username=wh131462&amp;repo=liuyao&amp;theme=transparent&amp;hide_border=true"/>
+    <a style="display: block" href="https://github.com/VueFilesPreview/vue-files-preview">
+        <img alt="vue-files-preview" src="https://github-readme-stats.vercel.app/api/pin/?username=VueFilesPreview&amp;repo=vue-files-preview&amp;theme=transparent&amp;hide_border=true"/>
     </a>
     <a style="display: block" href="https://github.com/wh131462/ngx-file-preview">
         <img alt="ngx-file-preview" src="https://github-readme-stats.vercel.app/api/pin/?username=wh131462&amp;repo=ngx-file-preview&amp;theme=transparent&amp;hide_border=true"/>
     </a>
-    <a style="display: block" href="https://github.com/wh131462/react-file-preview">
-        <img alt="react-file-preview" src="https://github-readme-stats.vercel.app/api/pin/?username=wh131462&amp;repo=react-file-preview&amp;theme=transparent&amp;hide_border=true"/>
-    </a>
-    <a style="display: block" href="https://github.com/SmallTeddy/vue-files-preview">
-        <img alt="vue-files-preview" src="https://github-readme-stats.vercel.app/api/pin/?username=SmallTeddy&amp;repo=vue-files-preview&amp;theme=transparent&amp;hide_border=true"/>
-    </a>
-    <a style="display: block" href="https://github.com/wh131462/leetcode-answers">
-        <img alt="leetcode-answers" src="https://github-readme-stats.vercel.app/api/pin/?username=wh131462&amp;repo=leetcode-answers&amp;theme=transparent&amp;hide_border=true"/>
-    </a>
-    <a style="display: block" href="https://github.com/wh131462/metronome">
-        <img alt="metronome" src="https://github-readme-stats.vercel.app/api/pin/?username=wh131462&amp;repo=metronome&amp;theme=transparent&amp;hide_border=true"/>
-    </a>
     <a style="display: block" href="https://github.com/wh131462/ngx-floating">
         <img alt="ngx-floating" src="https://github-readme-stats.vercel.app/api/pin/?username=wh131462&amp;repo=ngx-floating&amp;theme=transparent&amp;hide_border=true"/>
     </a>
-    <a style="display: block" href="https://github.com/wh131462/wallpaper-angular">
-        <img alt="wallpaper-angular" src="https://github-readme-stats.vercel.app/api/pin/?username=wh131462&amp;repo=wallpaper-angular&amp;theme=transparent&amp;hide_border=true"/>
+    <a style="display: block" href="https://github.com/wh131462/react-file-preview">
+        <img alt="react-file-preview" src="https://github-readme-stats.vercel.app/api/pin/?username=wh131462&amp;repo=react-file-preview&amp;theme=transparent&amp;hide_border=true"/>
     </a>
-    <a style="display: block" href="https://github.com/wh131462/eternal-heart-go">
-        <img alt="eternal-heart-go" src="https://github-readme-stats.vercel.app/api/pin/?username=wh131462&amp;repo=eternal-heart-go&amp;theme=transparent&amp;hide_border=true"/>
+    <a style="display: block" href="https://github.com/wh131462/whispers-of-the-heart">
+        <img alt="whispers-of-the-heart" src="https://github-readme-stats.vercel.app/api/pin/?username=wh131462&amp;repo=whispers-of-the-heart&amp;theme=transparent&amp;hide_border=true"/>
+    </a>
+    <a style="display: block" href="https://github.com/wh131462/mcp-boundary">
+        <img alt="mcp-boundary" src="https://github-readme-stats.vercel.app/api/pin/?username=wh131462&amp;repo=mcp-boundary&amp;theme=transparent&amp;hide_border=true"/>
     </a>
     <a style="display: block" href="https://github.com/wh131462/mcp-dependency-doctor">
         <img alt="mcp-dependency-doctor" src="https://github-readme-stats.vercel.app/api/pin/?username=wh131462&amp;repo=mcp-dependency-doctor&amp;theme=transparent&amp;hide_border=true"/>
     </a>
-    <a style="display: block" href="https://github.com/wh131462/love-you-3000">
-        <img alt="love-you-3000" src="https://github-readme-stats.vercel.app/api/pin/?username=wh131462&amp;repo=love-you-3000&amp;theme=transparent&amp;hide_border=true"/>
+    <a style="display: block" href="https://github.com/wh131462/x-cli">
+        <img alt="x-cli" src="https://github-readme-stats.vercel.app/api/pin/?username=wh131462&amp;repo=x-cli&amp;theme=transparent&amp;hide_border=true"/>
+    </a>
+    <a style="display: block" href="https://github.com/wh131462/metronome">
+        <img alt="metronome" src="https://github-readme-stats.vercel.app/api/pin/?username=wh131462&amp;repo=metronome&amp;theme=transparent&amp;hide_border=true"/>
+    </a>
+    <a style="display: block" href="https://github.com/wh131462/video-companion-extension">
+        <img alt="video-companion-extension" src="https://github-readme-stats.vercel.app/api/pin/?username=wh131462&amp;repo=video-companion-extension&amp;theme=transparent&amp;hide_border=true"/>
     </a>
 </div>
 
@@ -149,7 +146,7 @@ I am a frontend enthusiast, passionate about creating, and a frontend developer 
   </a>
   <br/><br/>
   <a href="https://131462.wang">
-    <img src="./assets/logo.svg" width="60%" alt="EternalHeart Logo"/>
+    <img src="./assets/logo.png" width="60%" alt="EternalHeart Logo"/>
   </a>
   <br/><br/>
   <sub>Click the logo or button above to explore more</sub>
