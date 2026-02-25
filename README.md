@@ -89,37 +89,37 @@ I am a frontend enthusiast, passionate about creating, and a frontend developer 
 
 <div style="width:100%;display: flex;flex-wrap: wrap;gap: 16px">
     <a style="display: block" href="https://github.com/EternalHeartTeam/leetcode-practice">
-        <img alt="leetcode-practice" src="https://github-readme-stats.vercel.app/api/pin/?username=EternalHeartTeam&repo=leetcode-practice&theme=transparent&hide_border=true"/>
+        <img alt="leetcode-practice" src="https://stats.131462.wang/api/pin/?username=EternalHeartTeam&repo=leetcode-practice&theme=transparent&hide_border=true"/>
     </a>
     <a style="display: block" href="https://github.com/VueFilesPreview/vue-files-preview">
-        <img alt="vue-files-preview" src="https://github-readme-stats.vercel.app/api/pin/?username=VueFilesPreview&repo=vue-files-preview&theme=transparent&hide_border=true"/>
+        <img alt="vue-files-preview" src="https://stats.131462.wang/api/pin/?username=VueFilesPreview&repo=vue-files-preview&theme=transparent&hide_border=true"/>
     </a>
     <a style="display: block" href="https://github.com/wh131462/ngx-file-preview">
-        <img alt="ngx-file-preview" src="https://github-readme-stats.vercel.app/api/pin/?username=wh131462&repo=ngx-file-preview&theme=transparent&hide_border=true"/>
+        <img alt="ngx-file-preview" src="https://stats.131462.wang/api/pin/?username=wh131462&repo=ngx-file-preview&theme=transparent&hide_border=true"/>
     </a>
     <a style="display: block" href="https://github.com/wh131462/ngx-floating">
-        <img alt="ngx-floating" src="https://github-readme-stats.vercel.app/api/pin/?username=wh131462&repo=ngx-floating&theme=transparent&hide_border=true"/>
+        <img alt="ngx-floating" src="https://stats.131462.wang/api/pin/?username=wh131462&repo=ngx-floating&theme=transparent&hide_border=true"/>
     </a>
     <a style="display: block" href="https://github.com/wh131462/react-file-preview">
-        <img alt="react-file-preview" src="https://github-readme-stats.vercel.app/api/pin/?username=wh131462&repo=react-file-preview&theme=transparent&hide_border=true"/>
+        <img alt="react-file-preview" src="https://stats.131462.wang/api/pin/?username=wh131462&repo=react-file-preview&theme=transparent&hide_border=true"/>
     </a>
     <a style="display: block" href="https://github.com/wh131462/whispers-of-the-heart">
-        <img alt="whispers-of-the-heart" src="https://github-readme-stats.vercel.app/api/pin/?username=wh131462&repo=whispers-of-the-heart&theme=transparent&hide_border=true"/>
+        <img alt="whispers-of-the-heart" src="https://stats.131462.wang/api/pin/?username=wh131462&repo=whispers-of-the-heart&theme=transparent&hide_border=true"/>
     </a>
     <a style="display: block" href="https://github.com/wh131462/mcp-boundary">
-        <img alt="mcp-boundary" src="https://github-readme-stats.vercel.app/api/pin/?username=wh131462&repo=mcp-boundary&theme=transparent&hide_border=true"/>
+        <img alt="mcp-boundary" src="https://stats.131462.wang/api/pin/?username=wh131462&repo=mcp-boundary&theme=transparent&hide_border=true"/>
     </a>
     <a style="display: block" href="https://github.com/wh131462/mcp-dependency-doctor">
-        <img alt="mcp-dependency-doctor" src="https://github-readme-stats.vercel.app/api/pin/?username=wh131462&repo=mcp-dependency-doctor&theme=transparent&hide_border=true"/>
+        <img alt="mcp-dependency-doctor" src="https://stats.131462.wang/api/pin/?username=wh131462&repo=mcp-dependency-doctor&theme=transparent&hide_border=true"/>
     </a>
     <a style="display: block" href="https://github.com/wh131462/x-cli">
-        <img alt="x-cli" src="https://github-readme-stats.vercel.app/api/pin/?username=wh131462&repo=x-cli&theme=transparent&hide_border=true"/>
+        <img alt="x-cli" src="https://stats.131462.wang/api/pin/?username=wh131462&repo=x-cli&theme=transparent&hide_border=true"/>
     </a>
     <a style="display: block" href="https://github.com/wh131462/metronome">
-        <img alt="metronome" src="https://github-readme-stats.vercel.app/api/pin/?username=wh131462&repo=metronome&theme=transparent&hide_border=true"/>
+        <img alt="metronome" src="https://stats.131462.wang/api/pin/?username=wh131462&repo=metronome&theme=transparent&hide_border=true"/>
     </a>
     <a style="display: block" href="https://github.com/wh131462/video-companion-extension">
-        <img alt="video-companion-extension" src="https://github-readme-stats.vercel.app/api/pin/?username=wh131462&repo=video-companion-extension&theme=transparent&hide_border=true"/>
+        <img alt="video-companion-extension" src="https://stats.131462.wang/api/pin/?username=wh131462&repo=video-companion-extension&theme=transparent&hide_border=true"/>
     </a>
 </div>
 
@@ -133,7 +133,7 @@ I am a frontend enthusiast, passionate about creating, and a frontend developer 
 
 [//]: # (Git stat)
 
-| [![EternalHeart's GitHub stats](https://github-readme-stats.vercel.app/api?username=wh131462&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wh131462&layout=donut&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) |
+| [![EternalHeart's GitHub stats](https://stats.131462.wang/api?username=wh131462&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://stats.131462.wang/api/top-langs/?username=wh131462&layout=donut&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 [//]: # (home)
