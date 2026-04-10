@@ -100,8 +100,8 @@ I am a frontend enthusiast, passionate about creating, and a frontend developer 
     <a style="display: block" href="https://github.com/wh131462/ngx-floating">
         <img alt="ngx-floating" src="https://stats.131462.wang/api/pin/?username=wh131462&repo=ngx-floating&theme=transparent&hide_border=true"/>
     </a>
-    <a style="display: block" href="https://github.com/wh131462/react-file-preview">
-        <img alt="react-file-preview" src="https://stats.131462.wang/api/pin/?username=wh131462&repo=react-file-preview&theme=transparent&hide_border=true"/>
+    <a style="display: block" href="https://github.com/wh131462/file-preview">
+        <img alt="file-preview" src="https://stats.131462.wang/api/pin/?username=wh131462&repo=file-preview&theme=transparent&hide_border=true"/>
     </a>
     <a style="display: block" href="https://github.com/wh131462/whispers-of-the-heart">
         <img alt="whispers-of-the-heart" src="https://stats.131462.wang/api/pin/?username=wh131462&repo=whispers-of-the-heart&theme=transparent&hide_border=true"/>
